@@ -156,22 +156,13 @@ files:
     \    elif user_inp == \"bloomberg.com\":\n        print(bloomberg_com)\n    elif\
     \ user_inp == \"nytimes.com\":\n        print(nytimes_com)\n"
   learner_created: false
+- name: bloomberg
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/79/stages/437/implement
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nCan't find a directory \"tb_tabs\" in which\
-    \ you should save your web pages.\n\nPlease find below the output of your program\
-    \ during this failed test.\nNote that the '>' character indicates the beginning\
-    \ of the input line.\n\n---\n\n> bloomberg.com\n\nThe Space Race: From Apollo\
-    \ 11 to Elon Musk\n\nIt's 50 years since the world was gripped by historic images\n\
-    \ of Apollo 11, and Neil Armstrong -- the first man to walk \n on the moon. It\
-    \ was the height of the Cold War, and the charts\n were filled with David Bowie's\
-    \ Space Oddity, and Creedence's \n Bad Moon Rising. The world is a very different\
-    \ place than \n it was 5 decades ago. But how has the space race changed since\n\
-    \ the summer of '69? (Source: Bloomberg)\n\n\nTwitter CEO Jack Dorsey Gives Talk\
-    \ at Apple Headquarters\n\nTwitter and Square Chief Executive Officer Jack Dorsey\
-    \ \n addressed Apple Inc. employees at the iPhone maker’s headquarters\n Tuesday,\
-    \ a signal of the strong ties between the Silicon Valley giants.\n\n> bloomberg\n\
-    > exit"
-  time: Sun, 30 Aug 2020 20:24:41 UTC
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/79/stages/437/implement">JetBrains
+    Academy</a>
+  time: Mon, 31 Aug 2020 14:03:33 UTC
 record: -1
